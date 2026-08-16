@@ -20,7 +20,7 @@ export default function App() {
 
   const fileInputRef = useRef(null);
 
-  const API_BASE = "http://localhost:8000/api";
+  const API_BASE = "https://career-pulse-api-hah2.onrender.com/api";
 
   /* =========================
      SAMPLE JOB PRESETS
