@@ -239,8 +239,6 @@ export default function App() {
       NEW:
       Send the target job description.
     */
-    formData.append("job_description", jobDescription);
-
     try {
       console.log(
         "Generating cover letter..."
